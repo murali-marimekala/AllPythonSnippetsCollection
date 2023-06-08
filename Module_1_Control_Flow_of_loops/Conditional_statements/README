@@ -1,25 +1,23 @@
 Conditional statements in Python allow you to execute different blocks of code based on certain conditions. The most commonly used conditional statements in Python are the if, elif, and else statements.
 
 The if statement is used to check a condition and execute a block of code if the condition is true. Here's the basic syntax:
-(')
-'''python
+
 if condition:
     # code to execute if condition is true
-(')
+
+
 Here's an example that checks if a number is positive and prints a corresponding message:
 
-(')
-'''python
+
 num = 10
 
 if num > 0:
     print("The number is positive.")
-(')
+
 If the condition num > 0 is true, the message "The number is positive." will be printed.
 
 Sometimes you may have multiple conditions to check. In such cases, you can use the elif statement, which stands for "else if". Here's the syntax:
-(')
-'''python
+
 if condition1:
     # code to execute if condition1 is true
 elif condition2:
@@ -28,12 +26,11 @@ elif condition3:
     # code to execute if condition3 is true
 else:
     # code to execute if none of the conditions are true
-(')
+
 The elif statements allow you to specify additional conditions to check after the initial if statement. If any of the conditions are true, the corresponding block of code will be executed. If none of the conditions are true, the else block will be executed.
 
 Here's an example that checks the range of a number and prints a corresponding message:
-(')
-'''python
+
 num = 10
 
 if num < 0:
@@ -42,7 +39,7 @@ elif num == 0:
     print("The number is zero.")
 else:
     print("The number is positive.")
-(')
+
 In this example, if num is less than 0, the message "The number is negative." will be printed. If num is equal to 0, the message "The number is zero." will be printed. Otherwise, if none of the conditions are true, the message "The number is positive." will be printed.
 
 Conditional statements allow you to control the flow of your program based on different conditions, making it possible to create more dynamic and flexible code.
