@@ -1,0 +1,49 @@
+All Python Scripts will be collected and stored in this order
+
+Module 1
+1.1 Control Flow and Loops (ETA: 25-Jun-2023)
+1.2 Conditional statements (if, else, elif)
+1.3 Looping with for and while loops
+1.4 Break and continue statements
+1.5 Range function and iterating over sequences
+ 
+Module 2
+
+2.1 Functions and Modules  
+2.2 Defining and calling functions
+2.3 Parameters and arguments
+2.4 Return statements
+2.5 Built-in functions vs. user-defined functions
+2.6 Importing and using modules
+2.7 Creating and using your own modules
+ 
+Module 3
+
+3.1 Data Structures  
+3.2 Lists, tuples, and dictionaries
+3.3 Accessing and modifying elements
+3.4 List comprehensions
+3.5 Sets and their operations
+3.6 Working with files
+ 
+Module 4
+4.1 Object-Oriented Programming (OOP) 
+4.2 Classes and objects
+4.3 Attributes and methods
+4.4 Inheritance and polymorphism
+4.5 Encapsulation and abstraction
+ 
+Module 5
+5.1 Error Handling and Exceptions  (ETA: 14-Jul-2023)
+5.2 Handling exceptions with try-except blocks
+5.3 Raising and handling custom exceptions
+5.4 Cleaning up with finally
+
+Module 6
+6.1 Advanced Topics (ETA: 28-Jul-2023)
+6.2 Regular expressions
+6.3 File handling and manipulation
+6.4 Working with databases (e.g., SQLite)
+6.5 Web scraping with BeautifulSoup
+
+More modules will be added..
